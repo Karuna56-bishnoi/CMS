@@ -20,21 +20,8 @@ Frameworks/Libraries: Bootstrap (for styling)
 
 Security: Prepared statements, password hashing
 
-📌 Installation
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/php-cms.git
-cd php-cms
-Configure the database (config.php)
 
-Import the SQL file into MySQL
-
-Start a local server (e.g., XAMPP, LAMP, or WAMP)
-
-Access the CMS in your browser
 
 🎯 Future Enhancements
 Implement a REST API for external integrations
